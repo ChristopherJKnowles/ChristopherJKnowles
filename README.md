@@ -1,7 +1,4 @@
-## Hi there 👋
-## 🔭 I’m currently working on getting my degree in Computer Science
-## 🏫 I'm currently taking World Civilization, Criminal Justice 101, Personal Finance, Expository Writing, Into to Technology and Innovation
-## 
+## Hi there 👋 
 <!--
 **ChristopherJKnowles/ChristopherJKnowles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
